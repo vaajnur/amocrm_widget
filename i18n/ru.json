@@ -1,0 +1,13 @@
+{
+    "widget":{
+        "name":"поля",
+        "short_description":"Скрытие-показ полей в списке контактов и компаний",
+        "description":"описание  <iframe width=\"438\" height=\"315\" src=\"https://www.youtube.com/embed/OOEE-7HckKQ\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    "settings":{
+        "api_key":"Ваш ключ апи 54acf3f7e89aff13a1c2c0c54089f8c9",
+        "companies": "Поля для компаний",
+        "agreement": "согласие с условиями передачи информации",
+        "connect_me": " "
+    }
+}

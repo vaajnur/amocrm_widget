@@ -1,0 +1,13 @@
+{
+    "widget":{
+        "name":"example",
+        "short_description":"Short description",
+        "description":"Full description <iframe width=\"438\" height=\"315\" src=\"https://www.youtube.com/embed/OOEE-7HckKQ\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    "settings":{
+        "api_key":"Your key api 54acf3f7e89aff13a1c2c0c54089f8c9",
+        "companies":"companies fields",
+        "agreement": "Agreement with terms of information transfer",
+        "connect_me": " "
+    }
+}
